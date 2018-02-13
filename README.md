@@ -1,1 +1,2 @@
 # reactProject
+# contributor: Laura & Kathy
